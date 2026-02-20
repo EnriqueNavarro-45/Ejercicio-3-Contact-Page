@@ -21,8 +21,8 @@ En general, la página destaca por su estructura clara, buena jerarquía visual 
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Repositorio en GitHub:(https://github.com/EnriqueNavarro-45/Ejercicio-3-Contact-Page)
+Deploy: https://enriquenavarro-45.github.io/Ejercicio-3-Contact-Page/
 ---
 
 ## 📝 Reflexión
